@@ -1,0 +1,9 @@
+[package]
+name = "segCRF"
+version = "0.1.0"
+authors = ["PeterQLee <leep1995@gmail.com>"]
+
+[dependencies]
+numpy ="*"
+cpython = "*"
+ndarray = "*"
